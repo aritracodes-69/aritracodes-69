@@ -5,11 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritracodes-69" alt="aritracodes-69" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps,Backend Development and System Design**
+- 🌱 I’m currently learning **DevOps,Backend Development,System Design and Cybersecurity**
 
 - 📫 How to reach me **aritraghosh.zen23@gmail.com**
 
 - ⚡ Fun fact **Jack Of All Trades, Master of None**
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/54/99/d1/5499d15790395208ec67ab316d070230.gif"  />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
