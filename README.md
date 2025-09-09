@@ -14,6 +14,12 @@
   <img height="200" src="https://i.pinimg.com/originals/54/99/d1/5499d15790395208ec67ab316d070230.gif"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aritracodes-69/aritracodes-69/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aritracodes-69/aritracodes-69/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/aritracodes-69/aritracodes-69/output/pacman-contribution-graph.svg">
+</picture>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/aritra-ghosh-371031271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aritra-ghosh-371031271" height="30" width="40" /></a>
