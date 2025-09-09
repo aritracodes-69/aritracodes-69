@@ -20,6 +20,8 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/aritracodes-69/aritracodes-69/output/pacman-contribution-graph.svg">
 </picture>
 
+_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/aritra-ghosh-371031271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aritra-ghosh-371031271" height="30" width="40" /></a>
