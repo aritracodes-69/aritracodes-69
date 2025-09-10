@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritracodes-69" alt="aritracodes-69" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps,Backend Development,System Design and Cybersecurity**
+- 🌱 I’m currently learning **DevOps,Backend Development,System Design,AI and Cybersecurity**
 
 - 📫 How to reach me **aritraghosh.zen23@gmail.com**
 
