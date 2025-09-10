@@ -11,7 +11,8 @@
 
 - ⚡ Fun fact **Jack Of All Trades, Master of None**
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/54/99/d1/5499d15790395208ec67ab316d070230.gif"  />
+  <img height="400" src="https://i.pinimg.com/originals/54/99/d1/5499d15790395208ec67ab316d070230.gif" /><br>
+  <img height="400" src="https://i.pinimg.com/originals/4e/c1/33/4ec13331bf6db4d55e8ace6ad5159e35.gif" />
 </div>
 
 <picture>
@@ -38,3 +39,5 @@ _Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritracodes-69&show_icons=true&locale=en" alt="aritracodes-69" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aritracodes-69&" alt="aritracodes-69" /></p>
+
+
