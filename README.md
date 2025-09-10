@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aritraghosh.zen23@gmail.com**
 
-- ⚡ Fun fact **Jack Of All Trades, Master of None**
+- ⚡ Fun fact **Jack Of All Trades**
 <div align="center">
   <img height="400" src="https://i.pinimg.com/originals/54/99/d1/5499d15790395208ec67ab316d070230.gif" /><br>
   <img height="400" src="https://i.pinimg.com/originals/4e/c1/33/4ec13331bf6db4d55e8ace6ad5159e35.gif" />
