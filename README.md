@@ -12,7 +12,7 @@
 - ⚡ Fun fact **Jack Of All Trades**
 <div align="center">
   <img height="400" src="https://i.pinimg.com/originals/54/99/d1/5499d15790395208ec67ab316d070230.gif" /><br>
-  <img height="400" src="https://i.pinimg.com/originals/4e/c1/33/4ec13331bf6db4d55e8ace6ad5159e35.gif" />
+  <img height="400" src="https://i.pinimg.com/originals/22/89/72/228972c1e460ed44c84ad3116c9aa739.gif" />
 </div>
 
 <picture>
