@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aritra Ghosh</h1>
 <h3 align="center">A passionate Advanced Developer from India</h3>
 
+[![An image of @aritracodes69's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aritracodes69)](https://holopin.io/@aritracodes69)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritracodes-69&label=Profile%20views&color=0e75b6&style=flat" alt="aritracodes-69" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritracodes-69" alt="aritracodes-69" /></a> </p>
